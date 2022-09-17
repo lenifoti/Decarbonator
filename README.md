@@ -1,4 +1,4 @@
-# Decarbonator
+# The Decarbonator
 A website and contract for removing the carbon footprint of NFTs minted (and transferred) before the merge.
 ## Components
 ### Website:
